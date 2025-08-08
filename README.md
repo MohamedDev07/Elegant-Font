@@ -11,7 +11,7 @@ Browse the web becomes easier and more enjoyable. This extension replaces small,
 
 ## 🌟 Inspired by the Original
 
-This extension is inspired by and a tribute to the original "Better Font" extension by developer Mohamed, and has been updated to comply with the latest browser standards (Manifest V3), ensuring optimal performance and quality.
+This extension is inspired by and a tribute to the original "Better Font" extension by developer cchoochot on Chrome Web Store, and has been updated to comply with the latest browser standards (Manifest V3), ensuring optimal performance and quality.
 
 ## 👁️‍🗨️ A Treat for Your Eyes
 
