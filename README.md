@@ -16,3 +16,5 @@ This extension is inspired by and a tribute to the original "Better Font" extens
 ## 👁️‍🗨️ A Treat for Your Eyes
 
 With Elegant Font, you'll notice a significant difference in the clarity and beauty of the text, making your web Browse a more comfortable and enjoyable experience for your eyes.
+
+![Uploading ffebee46-7b45-42db-a728-038241c697b7f.png…]()
