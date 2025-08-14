@@ -1,4 +1,5 @@
 # Elegant-Font
+![Extension Logo](https://github.com/MohamedDev07/Elegant-Font/blob/main/logo2.png)
 "An elegant font replacement extension for web pages
 Browse the web becomes easier and more enjoyable. This extension replaces small, eye-straining fonts with elegant and clear ones on all websites. This significantly improves the Browse experience and reduces eye strain. The extension is designed to be fast, secure, and compatible with both Chrome and Firefox.
 
@@ -16,5 +17,3 @@ This extension is inspired by and a tribute to the original "Better Font" extens
 ## 👁️‍🗨️ A Treat for Your Eyes
 
 With Elegant Font, you'll notice a significant difference in the clarity and beauty of the text, making your web Browse a more comfortable and enjoyable experience for your eyes.
-
-![Extension Logo](https://github.com/MohamedDev07/Elegant-Font/blob/main/logo.png)
